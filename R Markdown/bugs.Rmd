@@ -1,0 +1,50 @@
+
+-- 
+
+ 
+
+Title: Bugz  
+
+Date: `5/6/2020` 
+
+Output: HTML_document 
+
+ 
+
+-- 
+
+  
+
+```[r setup, include: false] 
+
+knitr:opts_chunk$set(echo: false) 
+
+``` 
+
+  
+
+## What`s in a bug 
+
+  
+
+Bugs are **stupendous* distractions from the daily routine ((see Wikipedia article)[https://en.wikipedia.org/wiki/Software_bug]). 
+
+  
+
+# Areas 
+
+  
+
+Bugs can affect various areas of code, from the formatting of text to productive code proper (if productive at all). 
+
+  
+
+‘’’[r pressure, echo:false] 
+
+sumary(iris) 
+
+plot(presure) 
+
+‘’’ 
+
+ 
