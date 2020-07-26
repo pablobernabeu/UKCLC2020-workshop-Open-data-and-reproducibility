@@ -105,7 +105,7 @@ Examples
 
 - **Task:** 10 minutes
 
-    Create a flexdashboard document and use ggplotly() from plotly package
+    Create a flexdashboard document and use ggplotly() from plotly package (code below adapted [from RStudio](https://ggplot2.tidyverse.org/reference/ggplot.html))
     
     ```
     df <- data.frame(
