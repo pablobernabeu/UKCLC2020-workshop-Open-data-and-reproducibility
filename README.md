@@ -15,7 +15,9 @@ You’re welcome to post any questions in [issues](https://github.com/pabloberna
 
 Keep your input and output in check using R Markdown (https://rmarkdown.rstudio.com/).
 
-Examples: https://bookdown.org/yihui/rmarkdown/journals.html,  http://rpubs.com/
+Examples
+- https://bookdown.org/yihui/rmarkdown/journals.html
+- http://rpubs.com/
 
 ### Text styling with Markdown, HTML and CSS &nbsp; `30 min`
 
@@ -88,12 +90,12 @@ Examples: https://bookdown.org/yihui/rmarkdown/journals.html,  http://rpubs.c
 
 On a further step in reproducible, open data, we will learn how to publish dashboards online presenting data in the form of plots and tables. These all-reproducible dashboards are displayed as websites; thus, they can include hyperlinks and downloadable files. Some of the R packages used are ‘rmarkdown,' ‘knitr,’ ‘ggplot,’ ‘plotly,’ ‘flexdashboard,’ and ‘shiny.’ The aim is to practise with different forms of dashboards (Flexdashboard, Shiny, Flexdashboard-Shiny) and the suitable hosting platforms (personal website, RPubs, Binder, Shinyapps, and custom servers).
 
-Examples: 
-https://pablobernabeu.shinyapps.io/Dutch-modality-exclusivity-norms/
-https://pablobernabeu.shinyapps.io/ERP-waveform-visualization_CMS-experiment/
-https://pablo-bernabeu.shinyapps.io/experimental-data-simulation/
-https://shiny.rstudio.com/gallery/
-https://rmarkdown.rstudio.com/flexdashboard/examples.html
+Examples
+- https://pablobernabeu.shinyapps.io/Dutch-modality-exclusivity-norms/
+- https://pablobernabeu.shinyapps.io/ERP-waveform-visualization_CMS-experiment/
+- https://pablo-bernabeu.shinyapps.io/experimental-data-simulation/
+- https://shiny.rstudio.com/gallery/
+- https://rmarkdown.rstudio.com/flexdashboard/examples.html
 
 ### Creating a Flexdashboard (interactive R Markdown) &nbsp; `20 min`
 
