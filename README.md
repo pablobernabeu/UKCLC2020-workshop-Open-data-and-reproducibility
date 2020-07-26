@@ -99,7 +99,7 @@ https://rmarkdown.rstudio.com/flexdashboard/examples.html
 
 - **Background:** https://rmarkdown.rstudio.com/flexdashboard/
 
-- **Live demo:** 10 minutes
+- **Live demo:** Pablo, 10 minutes
 
 - **Task:** 10 minutes
 
@@ -127,13 +127,13 @@ https://rmarkdown.rstudio.com/flexdashboard/examples.html
     ```
     kable(summary(cars))
     ```
-
+    
 
 ### Creating a web application using Shiny &nbsp; `10 min`
 
 - **Background:** https://shiny.rstudio.com/
 
-- **Live demo:** 5 minutes
+- **Live demo:** Pablo, 5 minutes
 
 - **Task:** 5 minutes
     
@@ -144,23 +144,17 @@ https://rmarkdown.rstudio.com/flexdashboard/examples.html
 
 - **Background:** https://shiny.rstudio.com/
 
-- **Live demo:** 5 minutes
+- **Live demo:** Pablo, 5 minutes
 
 - **Task:** 10 minutes
 
-    Implement the necessary code at the top to enable Shiny in Flexdashboard.
-    
-    ```
-    knit: (function(inputFile, encoding) {
-  rmarkdown::render(inputFile, encoding = encoding) })
-    ```
 
 
 ### Publishing to shinyapps.io &nbsp; `10 min`
 
 - **Background:** https://www.shinyapps.io/
 
-- **Live demo:** 5 minutes
+- **Live demo:** Pablo, 5 minutes
 
 - **Task:** Sign up and deploy application, 5 minutes
 
@@ -180,7 +174,7 @@ Dashboard environment example: https://mybinder.org/v2/gh/pablobernabeu/Modal
     - https://github.com/binder-examples/r/blob/58b719735aa0be4938079890151cfc8934dcec60/README.md
     - https://mybinder.org/
 
-- **Live demo:** Eirini and Pablo, 10 minutes
+- **Live demo:** Eirini, 10 minutes
 
     How to enable web-based environments for an RStudio instance and a Shiny app.
 
