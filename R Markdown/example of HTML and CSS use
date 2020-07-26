@@ -1,0 +1,54 @@
+# HTML and CSS
+
+
+<!-- Define CSS style for splitting columns -->
+
+<style type="text/css">
+
+/* Create two equal columns that float next to each other */
+.column {
+  float: left;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+</style>
+
+
+
+<!-- Begin two-column format -->
+<div class="row">
+
+<!-- Left column -->
+<div class="column" style="width: 65%;">
+<div>
+<font style="color:red">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font> <b> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </b>
+<br></br>
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<br></br>
+</div>
+  </div>
+
+<!-- Right column -->
+<div class="column" style="width: 35%; padding-top: 388px; padding-left: 8px;">
+<div style = "padding-top: 5px; padding-bottom: 8px; float: right; font-size: 13px; display: inline-block; background-color: #FAFAFA;">
+<div style = "text-align: center !important; padding-bottom: 0 !important;"><img style="padding-bottom:10px; padding-left:35px" src="https://freesvg.org/img/HTML-Icon-Final.png" alt="HTML logo" width=60%></img></div>
+<div style="padding-top: 0 !important; padding-right: 5px; padding-left: 5px;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <font style="color:green"> Ut enim ad minim veniam, quis nostrud exercitation.</font></div>
+<div style="font-size:65%; padding-top:4px; padding-right: 5px; padding-left: 5px; text-align:left;"> Image: <a href="https://en.wikipedia.org/wiki/Markdown" target="_top" title="via Wikimedia Commons">HTML logo from https://freesvg.org/html-icon-final.</a> [<a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_top">CC BY-SA</a>].</div>
+</div>
+  </div>
+<!-- End two-column format -->
+</div>
+
+
+<hr>
+
+- placed horizontal line above
