@@ -142,11 +142,11 @@ https://rmarkdown.rstudio.com/flexdashboard/examples.html
 
 ### Combining Flexdashsboard and Shiny for best results &nbsp; `15 min`
 
-- **Background:** https://shiny.rstudio.com/
+- **Background:** https://rmarkdown.rstudio.com/flexdashboard/shiny.html
 
 - **Live demo:** Pablo, 5 minutes
 
-- **Task:** 10 minutes
+- **Task:** Modify [some of this app](https://github.com/pablobernabeu/Dutch-modality-exclusivity-norms-Bernabeu-2018/blob/master/Shiny-app/index.Rmd), 10 minutes
 
 
 
