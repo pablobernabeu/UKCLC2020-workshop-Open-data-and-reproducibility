@@ -1,7 +1,7 @@
 # Open data and reproducibility: R Markdown, dashboards and Binder
 
 A workshop at the UK Cognitive Linguistics Conference, on 26 July 2020 (https://www.ukclc2020.com/pre-conference), led by Pablo Bernabeu and Eirini Zormpa.
- 
+
 The methods for disseminating research in cognitive linguistics, and other fields, are advancing. Papers now include more and more supplementary materials. This shift has been facilitated by burgeoning technologies and available training. Another major contributor was the replication crisis in psychology. Nowadays, researchers customarily examine the extra materials with new studies. These materials are available to non-academics, too. Newer tools are available, notably based on open-source software. Let’s look at three tools around the R language.
 
 [The sections and times were adjusted during the workshop.]
@@ -210,3 +210,8 @@ Also suggested: 
 installing or updating R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/);
 perusing the links here;
 having some data and R code ready, preferably in a Github repository.
+
+
+----
+
+[CC BY licence](https://creativecommons.org/licenses/by/4.0/)
