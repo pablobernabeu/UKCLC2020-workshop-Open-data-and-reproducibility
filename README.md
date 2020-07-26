@@ -6,7 +6,7 @@ The methods for disseminating research in cognitive linguistics, and other field
 
 [The duration of each part was adjusted during the workshop.]
 
-You’re welcome to post any questions through GitHub issues at https://github.com/pablobernabeu/UKCLC2020-workshop-Open-data-and-reproducibility.
+You’re welcome to post any questions in [issues](https://github.com/pablobernabeu/UKCLC2020-workshop-Open-data-and-reproducibility/issues).
 
 
 ## **R Markdown** &nbsp; `75 min`
