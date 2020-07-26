@@ -4,7 +4,7 @@ A workshop at the UK Cognitive Linguistics Conference, on 26 July 2020 (https://
  
 The methods for disseminating research in cognitive linguistics, and other fields, are advancing. Papers now include more and more supplementary materials. This shift has been facilitated by burgeoning technologies and available training. Another major contributor was the replication crisis in psychology. Nowadays, researchers customarily examine the extra materials with new studies. These materials are available to non-academics, too. Newer tools are available, notably based on open-source software. Let’s look at three tools around the R language.
 
-[The duration of each part was adjusted during the workshop.]
+[The sections and times were adjusted during the workshop.]
 
 You’re welcome to post any questions in [issues](https://github.com/pablobernabeu/UKCLC2020-workshop-Open-data-and-reproducibility/issues).
 
