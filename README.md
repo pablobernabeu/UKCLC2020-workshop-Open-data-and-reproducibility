@@ -81,6 +81,8 @@ Examples: https://bookdown.org/yihui/rmarkdown/journals.html,  http://rpubs.c
 
 - **Task:** Free creation, 5 minutes
 
+<br>
+
 
 ## **Dashboards and web applications** &nbsp; `55 min`
 
@@ -161,6 +163,8 @@ https://rmarkdown.rstudio.com/flexdashboard/examples.html
 - **Live demo:** 5 minutes
 
 - **Task:** Sign up and deploy application, 5 minutes
+
+<br>
 
 
 ## **Binder** &nbsp; `15 min`
