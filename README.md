@@ -8,6 +8,8 @@ The methods for disseminating research in cognitive linguistics, and other field
 
 You’re welcome to post any questions in [issues](https://github.com/pablobernabeu/UKCLC2020-workshop-Open-data-and-reproducibility/issues).
 
+<br>
+
 
 ## **R Markdown** &nbsp; `75 min`
 
@@ -99,7 +101,7 @@ https://rmarkdown.rstudio.com/flexdashboard/examples.html
 
 - **Task:** 10 minutes
 
-    Create a flexdashboard document and use ggplotly() from plotly package and datatable() from DT package
+    Create a flexdashboard document and use ggplotly() from plotly package
     
     ```
     df <- data.frame(
@@ -116,6 +118,12 @@ https://rmarkdown.rstudio.com/flexdashboard/examples.html
     ggplotly(ggplot(df, aes(gp, y)) +
       geom_point() +
       geom_point(data = ds, aes(y = mean), colour = 'red', size = 3))
+    ```
+    
+    and kable() from knitr package (see also [DT package](https://rstudio.github.io/DT/))
+    
+    ```
+    kable(summary(cars))
     ```
 
 
