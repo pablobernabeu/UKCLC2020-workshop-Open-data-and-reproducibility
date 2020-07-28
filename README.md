@@ -29,6 +29,10 @@ Examples
 - **Live demo**: Pablo & Eirini, 20 minutes
         
     Writing a text showcasing markup styles such as italics, bold, indentation, hyperlinks, maths, styled inline code, styled code chunk.
+    
+    The document with the Markdown demonstration is: https://hackmd.io/FVOQNhtfTM2ZKSgCkFKbqw?both
+    
+    You can see examples of using R Markdown in analysis scripts here: https://github.com/eirini-zormpa/slow-naming/tree/master/scripts
 
 - **Task**: Replicating, 10 minutes
 
@@ -179,6 +183,8 @@ Dashboard environment example: https://mybinder.org/v2/gh/pablobernabeu/Modal
 - **Live demo:** Eirini, 10 minutes
 
     How to enable web-based environments for an RStudio instance and a Shiny app.
+    
+    The repository shown during the demo is this one: https://github.com/eirini-zormpa/slow-naming
 
 - **Task:** Creating runtime.txt and install.R files, adding those to a GitHub repo (a fork of [this one](https://github.com/eirini-zormpa/slow-naming)), creating the Binder repo on mybinder.org, and accessing the RStudio and Shiny environments by editing the URL address [as specified here](https://github.com/binder-examples/r/blob/3fdd90b2c359f249f1707174df0556d48b7d47ef/README.md).
 
