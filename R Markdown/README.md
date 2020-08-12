@@ -9,4 +9,4 @@
 
 - example of HTML and CSS use.png
 
-    Code in the document 'example of HTML and CSS use'
+    See code in the document 'example of HTML and CSS use'. To render that code as an HTML document yourself, you may copy the code into an R Markdown document in RStudio, or into a [hackmd.io document] online.
